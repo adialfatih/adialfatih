@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Header](src/github-header-image.png)
-
+<!--
 ##### 👩‍💻 Worked Project With : 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,16 +32,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
-
+-->
 ## 🧠 Tech Stack & Tools
 
 ### 🧑‍💻 Programming Languages
-<p align="center">
+
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-</p>
+
 
 
 ### 🚀 Frameworks & Libraries
