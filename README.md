@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 ![Header](src/github-header-image.png)
 
+## Engineering Manager | Senior Full-Stack Architect | Remote
+Engineering leader with 12+ years of experience building and scaling enterprise systems across HR, manufacturing and finance domains. Led end-to-end system development used by 500+ users across multi-subsidiary environments. Strong background in technical leadership, system architecture and business process optimization.
+
 ##### 👩‍💻 Worked Project With : 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
