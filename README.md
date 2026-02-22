@@ -16,15 +16,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack engineer with **12+ years** of professional experience building and owning production-grade systems **end-to-end** — from system design and architecture through deployment, user training, and ongoing maintenance.
+I'm a full-stack engineer with **12+ years** of professional experience building and owning production-grade systems **end-to-end** - from system design and architecture through deployment, user training, and ongoing maintenance.
 
-My background is unique: I've built enterprise systems **solo** that are currently live and used daily across **3 manufacturing companies** serving 500+ employees. I handle everything — backend, frontend, database design, API architecture, hardware integration, and direct stakeholder collaboration.
+My background is unique: I've built enterprise systems **solo** that are currently live and used daily across **3 manufacturing companies** serving 500+ employees. I handle everything - backend, frontend, database design, API architecture, hardware integration, and direct stakeholder collaboration.
 
 **What I bring:**
-- **End-to-end ownership** — I design, build, deploy, train, and maintain systems independently
-- **Enterprise scale** — HR management, production monitoring, inventory systems, payroll automation
-- **Multi-location architecture** — systems deployed across multiple companies from a single codebase
-- **Business impact focus** — 80% payroll time reduction, 90% inventory discrepancy elimination, real-time operational visibility
+- **End-to-end ownership** - I design, build, deploy, train, and maintain systems independently
+- **Enterprise scale** - HR management, production monitoring, inventory systems, payroll automation
+- **Multi-location architecture** - systems deployed across multiple companies from a single codebase
+- **Business impact focus** - 80% payroll time reduction, 90% inventory discrepancy elimination, real-time operational visibility
 
 **Currently seeking:** Tech Lead or Senior Full-Stack Engineer role in a **remote-first company** where I can lead engineering while contributing hands-on to meaningful product development.
 
@@ -37,7 +37,7 @@ My background is unique: I've built enterprise systems **solo** that are current
 
 Built a comprehensive HR platform serving **3 textile manufacturing companies** from a unified codebase:
 - ✅ Biometric attendance (face ID + fingerprint) with digital signature workflows
-- ✅ Automated payroll engine — reduced processing time by **80%**
+- ✅ Automated payroll engine - reduced processing time by **80%**
 - ✅ WhatsApp bot for real-time notifications and expense logging
 - ✅ Multi-tenant architecture with company-specific business rules
 - ✅ Deployed across 3 independent companies, trained 500+ end users
@@ -117,18 +117,18 @@ Built an end-to-end production tracking system for textile manufacturing:
 
 ## 💼 Professional Experience
 
-**PT. Rindang Jati Spinning** — *Software Developer (Remote Contract)*  
+**PT. Rindang Jati Spinning** - *Software Developer (Remote Contract)*  
 *January 2021 – Present*
 - Sole engineer responsible for 5 enterprise systems serving 500+ employees
 - Reduced payroll processing time by 80% through full automation
 - Systems adopted by 3 affiliated companies without additional headcount
 
-**Grafamedia** — *Founder & Lead Developer*  
+**Grafamedia** - *Founder & Lead Developer*  
 *August 2019 – Present*
 - Delivered 40+ production applications across education, retail, agriculture, and manufacturing
 - Full ownership: requirements → design → deployment → training
 
-**PT. Salam Mandiri Tekstile** — *Software Developer (Part-Time Remote)*  
+**PT. Salam Mandiri Tekstile** - *Software Developer (Part-Time Remote)*  
 *January 2022 – Present*
 - Adapted and deployed multi-tenant HR and production systems
 - Managed separate databases and company-specific business rules
@@ -156,6 +156,6 @@ I'm actively seeking **Tech Lead** or **Senior Full-Stack Engineer** roles in **
 
 ---
 
-*"Building systems that people actually use, at scale, with zero downtime — from first line of code to production deployment."*
+*"Building systems that people actually use, at scale, with zero downtime - from first line of code to production deployment."*
 
 </div>
