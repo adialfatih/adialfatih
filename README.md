@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Full-Stack Engineer · Tech Lead · Remote-Ready
+# Engineering Manager | Senior Full-Stack Architect | Remote
 
 **12+ years building production systems** | **40+ apps delivered** | **3 companies live** | **Open to remote opportunities worldwide**
 
