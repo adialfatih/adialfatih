@@ -16,43 +16,43 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack engineer with **12+ years** of professional experience building and owning production-grade systems **end-to-end** - from system design and architecture through deployment, user training, and ongoing maintenance.
+I'm a full stack engineer with **12+ years** of professional experience building and owning production grade systems **end-to-end** from system design and architecture through deployment, user training and ongoing maintenance.
 
-My background is unique: I've built enterprise systems **solo** that are currently live and used daily across **3 manufacturing companies** serving 500+ employees. I handle everything - backend, frontend, database design, API architecture, hardware integration, and direct stakeholder collaboration.
+My background is unique. I've built enterprise systems **solo** that are currently live and used daily across **3 manufacturing companies** serving 500+ employees. I handle everything : backend, frontend, database design, API architecture, hardware integration and direct stakeholder collaboration.
 
 **What I bring:**
-- **End-to-end ownership** - I design, build, deploy, train, and maintain systems independently
-- **Enterprise scale** - HR management, production monitoring, inventory systems, payroll automation
-- **Multi-location architecture** - systems deployed across multiple companies from a single codebase
-- **Business impact focus** - 80% payroll time reduction, 90% inventory discrepancy elimination, real-time operational visibility
+- **End-to-end ownership** → I design, build, deploy, train, and maintain systems independently
+- **Enterprise scale** → HR management, production monitoring, inventory systems, payroll automation
+- **Multi-location architecture** → systems deployed across multiple companies from a single codebase
+- **Business impact focus** → 80% payroll time reduction, 90% inventory discrepancy elimination, real-time operational visibility
 
-**Currently seeking:** Tech Lead or Senior Full-Stack Engineer role in a **remote-first company** where I can lead engineering while contributing hands-on to meaningful product development.
+**Currently seeking:** Tech Lead or Senior Full-Stack Engineer role in a **remote-first company** where I can lead engineering while contributing hands on to meaningful product development.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏭 Enterprise HR Management System (Multi-Company)
-**Stack:** Laravel · MySQL · Flutter · Node.js · WhatsApp API · Face ID · Fingerprint SDK
+**Stack:** Laravel | MySQL | Flutter | Node.js | WhatsApp API | Face ID | Fingerprint SDK
 
 Built a comprehensive HR platform serving **3 textile manufacturing companies** from a unified codebase:
 - ✅ Biometric attendance (face ID + fingerprint) with digital signature workflows
-- ✅ Automated payroll engine - reduced processing time by **80%**
+- ✅ Automated payroll engine reduced processing time by **80%**
 - ✅ WhatsApp bot for real-time notifications and expense logging
-- ✅ Multi-tenant architecture with company-specific business rules
+- ✅ Multi tenant architecture with company specific business rules
 - ✅ Deployed across 3 independent companies, trained 500+ end users
 
-**Impact:** Eliminated manual payroll errors, provided first-ever real-time attendance audit trail, and enabled mobile HR management via WhatsApp.
+**Impact:** Eliminated manual payroll errors, provided first-ever real-time attendance audit trail and enabled mobile HR management via WhatsApp.
 
 ---
 
 ### 🛒 Multi-Location Retail Inventory & POS System
-**Stack:** PHP · CodeIgniter 3 · Node.js · REST API · MySQL · Barcode Scanners
+**Stack:** PHP | CodeIgniter 3 | Node.js | REST API | MySQL | Barcode Scanners
 
-Designed and deployed a distributed inventory and point-of-sale system across **5 retail branches + 1 central warehouse**:
+Designed and deployed a distributed inventory and POS system across **5 retail branches + 1 central warehouse**:
 - ✅ Centralized inventory engine with real-time stock synchronization
 - ✅ Intelligent minimum-stock alerts via WhatsApp automation
-- ✅ Warehouse-to-branch distribution workflow with barcode tracking
+- ✅ Warehouse to branch distribution workflow with barcode tracking
 - ✅ Automated expense recording via conversational WhatsApp bot
 - ✅ POS terminals accessible from any device on LAN (zero client installation)
 
@@ -61,7 +61,7 @@ Designed and deployed a distributed inventory and point-of-sale system across **
 ---
 
 ### 🧵 Weaving Production Monitoring System
-**Stack:** Laravel · MySQL · Progressive Web App · JavaScript
+**Stack:** Laravel | MySQL | Progressive Web App | JavaScript
 
 Built an end-to-end production tracking system for textile manufacturing:
 - ✅ Real-time production floor dashboards for management
@@ -118,18 +118,18 @@ Built an end-to-end production tracking system for textile manufacturing:
 ## 💼 Professional Experience
 
 **PT. Rindang Jati Spinning** - *Software Developer (Remote Contract)*  
-*January 2021 – Present*
+*January 2021 - Present*
 - Sole engineer responsible for 5 enterprise systems serving 500+ employees
 - Reduced payroll processing time by 80% through full automation
 - Systems adopted by 3 affiliated companies without additional headcount
 
 **Grafamedia** - *Founder & Lead Developer*  
 *August 2019 – Present*
-- Delivered 40+ production applications across education, retail, agriculture, and manufacturing
+- Delivered 40+ production applications across education, retail, agriculture and manufacturing
 - Full ownership: requirements → design → deployment → training
 
 **PT. Salam Mandiri Tekstile** - *Software Developer (Part-Time Remote)*  
-*January 2022 – Present*
+*January 2022 - Present*
 - Adapted and deployed multi-tenant HR and production systems
 - Managed separate databases and company-specific business rules
 
@@ -139,11 +139,11 @@ Built an end-to-end production tracking system for textile manufacturing:
 
 I'm actively seeking **Tech Lead** or **Senior Full-Stack Engineer** roles in **remote-first companies**. I want to work on products that scale, with teams I can learn from and contribute to.
 
-**Available for:** Full-time remote · Contract / Freelance · Open to relocation discussions
+**Available for:** Full-time remote | Contract / Freelance | Open to relocation discussions
 
 📧 **Email:** [adisubuhadir@gmail.com](mailto:adisubuhadir@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/adi-subuhadir-506419273/)  
-🌐 **Portfolio:** [your-portfolio.com](https://adi.grafamedia.com)  
+💼 **LinkedIn:** [linkedin.com/in/adi-subuhadir](https://www.linkedin.com/in/adi-subuhadir-506419273/)  
+🌐 **Portfolio:** [adi.grafamedia.com](https://adi.grafamedia.com)  
 📍 **Location:** Pekalongan, Central Java, Indonesia (UTC+7)
 
 ---
@@ -152,10 +152,10 @@ I'm actively seeking **Tech Lead** or **Senior Full-Stack Engineer** roles in **
 
 ### 🎯 Core Strengths
 
-**System Architecture** · **End-to-End Ownership** · **Multi-Location Systems** · **Business Process Automation** · **Cross-Functional Leadership** · **User Training** · **API Design** · **Database Optimization**
+**System Architecture** | **End-to-End Ownership** | **Multi-Location Systems** | **Business Process Automation** | **Cross-Functional Leadership** | **User Training** | **API Design** | **Database Optimization**
 
 ---
 
-*"Building systems that people actually use, at scale, with zero downtime - from first line of code to production deployment."*
+*"Building systems that people actually use, at scale, with zero downtime, from first line of code to production deployment."*
 
 </div>
