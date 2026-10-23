@@ -2,105 +2,113 @@
 
 <div align="center">
 
-# Engineering Manager | Senior Full-Stack Architect | Remote
+# Adi Subuh
 
-**12+ years building production systems** | **40+ apps delivered** | **3 companies live** | **Open to remote opportunities worldwide**
+### Software Engineer · Manufacturing & Operations Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi-subuhadir-506419273/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adisubuhadir@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://adi.grafamedia.com)
+**One engineer. Five factories. Fifteen systems in production.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-adisubuh.my.id-2F5BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adisubuh.my.id/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi-subuhadir-506419273)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adi@grafamedia.com)
+[![CV](https://img.shields.io/badge/Download_CV-142235?style=for-the-badge&logo=readthedocs&logoColor=white)](https://adisubuh.my.id/adi-subuh-cv.pdf)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a full stack engineer with **12+ years** of professional experience building and owning production grade systems **end-to-end** from system design and architecture through deployment, user training and ongoing maintenance.
+Since 2020 I have been the entire software function of an Indonesian textile and printing group: **five plants, roughly 2,650 employees, 900+ daily users**. I gather the requirements on the factory floor, design the schema, write the code, run the rollout, and train the operators myself.
 
-My background is unique. I've built enterprise systems **solo** that are currently live and used daily across **3 manufacturing companies** serving 500+ employees. I handle everything : backend, frontend, database design, API architecture, hardware integration and direct stakeholder collaboration.
+Nothing here was inherited from a previous team or a vendor. Every system was scoped, built, deployed, and taught by one person while the plants kept running three shifts a day.
 
-**What I bring:**
-- **End-to-end ownership** → I design, build, deploy, train, and maintain systems independently
-- **Enterprise scale** → HR management, production monitoring, inventory systems, payroll automation
-- **Multi-location architecture** → systems deployed across multiple companies from a single codebase
-- **Business impact focus** → 80% payroll time reduction, 90% inventory discrepancy elimination, real-time operational visibility
-
-**Currently seeking:** Tech Lead or Senior Full-Stack Engineer role in a **remote-first company** where I can lead engineering while contributing hands on to meaningful product development.
+| 5 | 15 | ~2,650 | 900+ | 126 | 24/7 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Plants | Systems in production | Employees covered | Daily named users | Machines monitored | Three-shift operation |
 
 ---
 
-## 🚀 Featured Projects
+## Selected work
 
-### 🏭 Enterprise HR Management System (Multi-Company)
-**Stack:** Laravel | MySQL | Flutter | Node.js | WhatsApp API | Face ID | Fingerprint SDK
+Full case studies, with the constraint, the decisions, and the trade-offs, are on **[adisubuh.my.id](https://adisubuh.my.id/)**. Screens are published with each client's permission and use dummy data.
 
-Built a comprehensive HR platform serving **3 textile manufacturing companies** from a unified codebase:
-- ✅ Biometric attendance (face ID + fingerprint) with digital signature workflows
-- ✅ Automated payroll engine reduced processing time by **80%**
-- ✅ WhatsApp bot for real-time notifications and expense logging
-- ✅ Multi tenant architecture with company specific business rules
-- ✅ Deployed across 3 independent companies, trained 500+ end users
+### 🖨️ Fabric & Sarong Printing Production System · 2026
+**Bimatex** · Laravel 13 · MySQL · REST API · WhatsApp Gateway · [Live demo ↗](https://adisubuh.my.id/demo/textile-printing-production/)
 
-**Impact:** Eliminated manual payroll errors, provided first-ever real-time attendance audit trail and enabled mobile HR management via WhatsApp.
+Tracks grey fabric from two weaving plants through outside finishing, eight machine stages per colour, QC, and cost of goods per order.
+- **Constraint:** most of the fabric is never in the plant: it sits at a weaving plant, on the road, or at the finisher, and returns in partial shipments.
+- **Result:** fabric everywhere in the chain shows up in one valued balance; operators log machine in/out from WhatsApp; 300+ automated tests; rolled out in stages over six weeks.
+
+### 🧶 Spinning Mill Production Monitoring · 2026
+**PT. Rindang Jati Spinning** · Laravel · Livewire · MySQL · PWA · [Live demo ↗](https://adisubuh.my.id/demo/spinning-mill-monitoring/)
+
+119 machines, ~600 operators and supervisors, three shifts a day.
+- **Constraint:** most users had never used a work application, devices are limited, and the network is unstable. Any friction and recording goes back to paper.
+- **Result:** output per machine is visible the same day instead of after the period closes; shift comparisons run on one shared set of figures.
+
+### 📊 Cross-Plant Executive Dashboard · 2026
+**Rindang Group** · Laravel · REST API · Flutter · PWA · [Live demo ↗](https://adisubuh.my.id/demo/group-executive-dashboard/)
+
+A consolidation layer that merges three separately built plant systems into one view for 15 directors and managers.
+- **Constraint:** all three source systems run 24/7, so no database migration and no common schema; the integration could not touch any production write path.
+- **Result:** production, sales, and receivables for three plants on one screen, shipped with zero downtime.
+
+### 🧵 Woven Sarong Production Traceability · 2025
+**PT. Putra Sahabat Textile** · Laravel · Livewire · MySQL · PWA · [Live demo ↗](https://adisubuh.my.id/demo/sarong-production-traceability/)
+
+End-to-end traceability across 10 production stages and 4 warehouses, from raw material to receivables and broker commission.
+- **Result:** stock traceable by brand, type, and colour in every warehouse; production can finally be compared against sales; grade split captured at inspecting and traced back to its process.
+
+### 🎨 Batik Production Monitoring System · 2026
+**Batik Nadhira · Batik Bosami · Batik Batboy · Nataya Fashion** · Laravel · MySQL · Tailwind · [Live demo ↗](https://adisubuh.my.id/demo/batik-production-monitoring/)
+
+One codebase running four competing batik businesses, each deployed on its own infrastructure and differing only in brand identity.
+- **Result:** cost of goods calculated from records at each production stage instead of estimates. All four clients agreed to be named.
+
+### Also in production
+
+| Year | System | For | Stack |
+|:-:|---|---|---|
+| 2026 | Delivery Notes & Shipping Queue | Rindang Jati Weaving, Salam Mandiri Textile, Putra Sahabat Textile | CodeIgniter · MySQL · Ajax |
+| 2026 | HavaBot: WhatsApp assistant for cafés & restaurants | Grafamedia (internal product) | Node.js · Express · MySQL · WhatsApp Web.js |
+| 2025 | Multi-Plant HRIS & biometric attendance (~2,500 employees, fingerprint + face recognition) | Rindang Jati Spinning, Salam Mandiri Textile, Bantaran Mulia Textile | Laravel · Node.js · MySQL · Hikvision ISAPI |
+| 2025 | Sparepart & machine consumption control (stock variance cut from millions of rupiah to rounding error) | PT. Rindang Jati Spinning | Laravel 11 · Livewire · Node.js · QR / thermal printing |
+| 2025 | Weaving Operations ERP (production → invoicing → receivables, reports pushed over WhatsApp) | Rindang Jati Weaving, Putra Sahabat Textile, Salam Mandiri Textile | Laravel · Livewire · Node.js · WhatsApp Web.js · PWA |
+
+**Running in production at:** PT. Putra Sahabat Textile · PT. Rindang Jati Spinning · CV. Salam Mandiri Textile · CV. Bantaran Mulia Textile · Mega Jaya · Batik Nadhira · [Batik Bosami](https://batikbosami.com) · [Batik Batboy](https://batboy.id) · [SiRumah.id](https://sirumah.id)
 
 ---
 
-### 🛒 Multi-Location Retail Inventory & POS System
-**Stack:** PHP | CodeIgniter 3 | Node.js | REST API | MySQL | Barcode Scanners
+## How I ship
 
-Designed and deployed a distributed inventory and POS system across **5 retail branches + 1 central warehouse**:
-- ✅ Centralized inventory engine with real-time stock synchronization
-- ✅ Intelligent minimum-stock alerts via WhatsApp automation
-- ✅ Warehouse to branch distribution workflow with barcode tracking
-- ✅ Automated expense recording via conversational WhatsApp bot
-- ✅ POS terminals accessible from any device on LAN (zero client installation)
+I hand over a running operation, not a repository. What breaks an internal system is rarely the code; it is asking hundreds of people to change how they have worked for years.
 
-**Impact:** Owner achieved real-time visibility into all 5 locations simultaneously for the first time. Stock-outs eliminated. Every warehouse transfer now has a full audit trail.
+1. **Requirements come from the floor, not from a document.** I watch the work at the machine before writing anything.
+2. **The most urgent module ships first.** No big-bang launches. One painful problem goes live, proves itself over a real shift, then the system grows.
+3. **Old records run in parallel until the reports match.** Manual records retire only after reports match three times in a row, about three months.
+4. **Training at the workstation, repeated every shift.** The same material three times, at the machine that operator actually runs.
+5. **I stay after go-live.** Every system here has been revised since launch because the operation changed, not because the code was wrong.
 
 ---
 
-### 🧵 Weaving Production Monitoring System
-**Stack:** Laravel | MySQL | Progressive Web App | JavaScript
+## Stack
 
-Built an end-to-end production tracking system for textile manufacturing:
-- ✅ Real-time production floor dashboards for management
-- ✅ Inspection, folding, and sales tracking in one integrated system
-- ✅ Machine monitoring with downtime logging and spare parts consumption analytics
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Automation-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
-**Impact:** Digitized all production records, eliminated manual reporting, enabled data-driven maintenance decisions.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frameworks & Libraries**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Practices & Architecture**  
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
+**Integrations:** REST APIs between plant systems · WhatsApp gateways for alerts and reports · Hikvision ISAPI face recognition · fingerprint readers · thermal barcode / QR printers
 
 ---
 
@@ -112,50 +120,26 @@ Built an end-to-end production tracking system for textile manufacturing:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adialfatih/adialfatih/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
+## Journey
+
+| Period | Milestone |
+|:-:|---|
+| 2012–2015 | **First clients:** school websites and the first paid work, started while still in vocational school |
+| 2016–2019 | **From pages to systems:** company profiles, then the first internal applications |
+| 2020 | **Entering the factory floor:** the first production system for a textile plant |
+| 2021–2023 | **One plant at a time:** production, warehousing, sales, AP/AR, HRIS, biometric attendance |
+| 2024–2026 | **Consolidation & automation:** 15 systems, 5 plants, one executive dashboard |
 
 ---
 
-## 💼 Professional Experience
+## Work with me
 
-**PT. Rindang Jati Spinning** - *Software Developer (Remote Contract)*  
-*January 2021 - Present*
-- Sole engineer responsible for 5 enterprise systems serving 500+ employees
-- Reduced payroll processing time by 80% through full automation
-- Systems adopted by 3 affiliated companies without additional headcount
+A contract build, an ongoing retainer, or a full-time remote role. Tell me the problem you are trying to solve and I will tell you honestly whether I am the right person for it.
 
-**Grafamedia** - *Founder & Lead Developer*  
-*August 2019 – Present*
-- Delivered 40+ production applications across education, retail, agriculture and manufacturing
-- Full ownership: requirements → design → deployment → training
+- **Engagement:** per-system contract, monthly retainer, or full-time remote
+- **Time zone:** UTC+7 (Jakarta). A full working day of overlap with Europe, the UK, and Asia-Pacific; about three hours with the US East Coast
+- **Contracting:** direct contract, contractor platform, or Employer of Record
 
-**PT. Salam Mandiri Tekstile** - *Software Developer (Part-Time Remote)*  
-*January 2022 - Present*
-- Adapted and deployed multi-tenant HR and production systems
-- Managed separate databases and company-specific business rules
-
----
-
-## 📫 Let's Connect
-
-I'm actively seeking **Tech Lead** or **Senior Full-Stack Engineer** roles in **remote-first companies**. I want to work on products that scale, with teams I can learn from and contribute to.
-
-**Available for:** Full-time remote | Contract / Freelance | Open to relocation discussions
-
-📧 **Email:** [adisubuhadir@gmail.com](mailto:adisubuhadir@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/adi-subuhadir](https://www.linkedin.com/in/adi-subuhadir-506419273/)  
-🌐 **Portfolio:** [adi.grafamedia.com](https://adi.grafamedia.com)  
-📍 **Location:** Pekalongan, Central Java, Indonesia (UTC+7)
-
----
-
-<div align="center">
-
-### 🎯 Core Strengths
-
-**System Architecture** | **End-to-End Ownership** | **Multi-Location Systems** | **Business Process Automation** | **Cross-Functional Leadership** | **User Training** | **API Design** | **Database Optimization**
-
----
-
-*"Building systems that people actually use, at scale, with zero downtime, from first line of code to production deployment."*
-
-</div>
+📧 [adi@grafamedia.com](mailto:adi@grafamedia.com) · 🌐 [adisubuh.my.id](https://adisubuh.my.id/) · 💼 [LinkedIn](https://www.linkedin.com/in/adi-subuhadir-506419273)
